@@ -1,0 +1,9 @@
+# Ignore node_modules directory (assuming Node.js project)
+node_modules/
+
+# Ignore environment-specific configuration files
+.env
+
+# Ignore configuration files with sensitive data
+config/*.json
+config/*.js
